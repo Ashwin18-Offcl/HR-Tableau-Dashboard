@@ -1,7 +1,7 @@
 
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">🧠 HR ANALYTICS DASHBOAR</h1>
+<h1 align="center">HR ANALYTICS DASHBOAR</h1>
 <h3 align="center">From Data → Insight → Decision</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-# 🎨 🧠 Leonardo Thinking Layer
+#  Leonardo Thinking Layer
 
 > “Simplicity is the ultimate sophistication.” — Inspired by Leonardo da Vinci  
 
@@ -69,7 +69,7 @@ flowchart LR
 
 ---
 
-# 🧠 Intelligence Layer (Your Unique Edge)
+#  Intelligence Layer (Your Unique Edge)
 
 This project demonstrates:
 
