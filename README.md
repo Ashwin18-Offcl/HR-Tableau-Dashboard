@@ -1,11 +1,11 @@
 
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">🧠 HR ANALYTICS DASHBOARD</h1>
+<h1 align="center">🧠 HR ANALYTICS DASHBOAR</h1>
 <h3 align="center">From Data → Insight → Decision</h3>
 
 <p align="center">
-  <img src="thumbnail.png" width="100%"/>
+  <img src="https://github.com/Ashwin18-Offcl/HR-Tableau-Dashboard/blob/main/HD%20Dashboard%20Thumbnail.png" width="100%"/>
 </p>
 
 <p align="center">
